@@ -1,6 +1,6 @@
 # eProject
 # T1.2002.E1-eProject-Group_2
-Batch no.: T1.1910.M1
+Batch no.: T1.2002.E1
 
 CENTER NAME: ACE-HCMC-2-FPT
 
